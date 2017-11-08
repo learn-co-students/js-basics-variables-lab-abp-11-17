@@ -1,1 +1,9 @@
-// Code your solution in this file!
+// CodeUse var... never.
+
+
+const companyName = 'Scuber';
+
+let mostProfitableNeighborhood;
+    mostProfitableNeighborhood = 'Chelsea';
+
+let companyCeo = 'Susan Smith';
